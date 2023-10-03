@@ -1,3 +1,3 @@
 frase = "Curso em Video Python"
 
-frase.count('o')
+print("em" in frase)
