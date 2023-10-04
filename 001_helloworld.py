@@ -1,1 +1,1 @@
-print("Olá, mundo!")
+print("Olá, mundo!") #Printa "Olá, mundo" na tela
