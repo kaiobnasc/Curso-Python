@@ -4,4 +4,5 @@ p = int(input("Passo: "))
 
 for c in range(i, f+1, p):
     print(c)
+    print(c)
 print("FIM")
