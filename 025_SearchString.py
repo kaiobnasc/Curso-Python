@@ -1,0 +1,2 @@
+nome = str(input("Digite seu nome completo: ")).strip() #string pedindo para digitar um nome completo retirando os espaços graças ao .strip()
+print("Seu nome tem Borges? {}".format("BORGES" in nome.upper()))
