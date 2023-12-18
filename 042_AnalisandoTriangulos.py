@@ -6,7 +6,7 @@ r2 = float(input("Segundo segmento: ")) #Input que pede ao usu;ario o segundo se
 r3 = float(input("Terceiro segmento: ")) #Input que pede ao usuário o terceiro segmento
 
 if r1 < r2 + r3 and r2 < r1 + r3 and r3 < r1 + r2: #Incio do ciclo if que verifica se cada lado é menor que a soma dos outros dois lados
-    print("Os segmentos PODEM formar um triângulo ", end="") #Print caso a condição anterior seja verdadeira
+    print("Os segmentos PODEM formar um triângulo 4", end="") #Print caso a condição anterior seja verdadeira
     if r1 == r2 == r3:
         print("Equilátero!")
     if r1 != r2 != r3 != r1:
