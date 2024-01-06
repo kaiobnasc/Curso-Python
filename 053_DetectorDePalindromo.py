@@ -8,3 +8,4 @@ if inverso == junto:
     print('Temos um palíndromo!')
 else:
     print('A frase digitada não é um palindromo!')
+    print('Tente novamente.')
