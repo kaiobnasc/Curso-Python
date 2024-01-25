@@ -9,3 +9,4 @@ if inverso == junto:
 else:
     print('A frase digitada não é um palindromo!')
     print('Teste de print')
+    print('Teste 2')
