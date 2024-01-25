@@ -5,7 +5,8 @@ inverso = ''
 inverso = junto[::-1]
 print('O inverso de {} é {}'.format(junto, inverso))
 if inverso == junto:
-    print('Temos um palíndromo!')
+    print('Temos um palíndromo!') #print que imprime ume mensagfem
 else:
     print('A frase digitada não é um palindromo!')
     print('Teste de print')
+    print('Teste 2')
